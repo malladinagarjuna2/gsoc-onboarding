@@ -21,6 +21,7 @@ val allContributors = NonEmptyList.of(
   `alokkumardalei-wq`,
   `thonkpad`,
   jarmuszz,
+  blagogunev,
   `octocat`,
   djspiewak,
   `krrishverma1805-web`
